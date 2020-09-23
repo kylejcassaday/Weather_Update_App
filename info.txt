@@ -1,4 +1,4 @@
-Simple weather web app that:
+A simple weather web app.
 
 (1) gets user location
 
