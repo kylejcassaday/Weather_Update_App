@@ -1,6 +1,6 @@
-# Weather_Update_App
+# Weather Update App
 
-A simple weather app built in JavaScript, HTML, SASS, AJAX and PHP that displays the current day's weather.
+A simple app built in JavaScript, HTML, SASS, AJAX and PHP that displays the current day's weather.
 
 (1) gets user location
 
